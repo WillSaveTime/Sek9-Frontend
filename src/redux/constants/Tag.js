@@ -1,0 +1,4 @@
+export const SET_TAGS = 'SET_TAGS'
+export const DELETE_TAGS = 'DELETE_TAGS'
+export const SHOW_TAG_LOADING = 'SHOW_TAG_LOADING'
+export const SET_TAGS_PAGINTATION = 'SET_TAGS_PAGINTATION'

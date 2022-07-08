@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "jsx-a11y/anchor-is-valid": [ "error", {
+      "components": [ "Link" ],
+      "specialLink": ["href", "hrefLeft", "hrefRight", "to"],
+      "aspects": ["noHref", "invalidHref", "preferButton"]
+    }]
+  }
+}

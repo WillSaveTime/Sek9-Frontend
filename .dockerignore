@@ -1,0 +1,14 @@
+# .env
+.env.production
+node_modules
+build
+.dockerignore
+deploy-prod.sh
+Dockerfile
+docker-compose.yml
+Dockerfile*
+docker-compose*
+**/.git
+**/.DS_Store
+**/node_modules
+
